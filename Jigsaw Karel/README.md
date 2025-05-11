@@ -1,12 +1,18 @@
 # Jigsaw Karel
 
 Karel has picked up a new hobby: doing puzzles! Karel is trying to complete this puzzle made up of beepers. When complete the puzzle should look like this:
+
 ---
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d5ef197f-7d6f-4554-99ff-ceabbc69c78e)
+
 ---
-Karel is almost done but not finished yet. Below is the current state of Karel's world. The beeper in the bottom most row represents the last piece of the puzzle! Write a program which will get Karel to pick up the last piece, put it in place, and move Karel back to the bottom left corner of the world facing East so she can admire the completed puzzle.
+
+Karel is almost done, but not finished yet. Below is the current state of Karel's world. The beeper in the bottom most row represents the last piece of the puzzle! Write a program which will get Karel to pick up the last piece, put it in place, and move Karel back to the bottom left corner of the world facing East so she can admire the completed puzzle.
+
 ---
-![alt text](image-1.png)
+
+![image](https://github.com/user-attachments/assets/339374ca-5eda-4329-b80b-097bd24e79c7)
+
 ---
 To reiterate, you should write the sequence of commands so that Karel will:
 - Move to and pick up the last puzzle piece (the beeper in row 1, column 3)
