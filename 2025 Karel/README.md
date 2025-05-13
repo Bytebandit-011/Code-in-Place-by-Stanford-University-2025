@@ -2,6 +2,8 @@ Congratulations on beginning your coding journey! Karel welcomes you to Code in 
 
 ---
 
+![image](https://github.com/user-attachments/assets/2481cf5e-932f-463c-ae96-965d2c8b41da)
+
 ---
 
 There are many ways to get this correct. In order to program this well you should be using two for loops.
