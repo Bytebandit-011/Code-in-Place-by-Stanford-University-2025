@@ -4,6 +4,9 @@ A simple two-player terminal game written in Python, where players take turns re
 
 ---
 
+![image](https://github.com/user-attachments/assets/a7d5b367-4ccc-4ff5-ad13-518998826e06)
+
+
 ## 🎮 How to Play
 
 - The game starts with **20 stones**.
@@ -21,6 +24,8 @@ A simple two-player terminal game written in Python, where players take turns re
 3. Run the game from the command line:
 
 ```bash
+
+
 python stone_game.py
 
 
@@ -31,6 +36,6 @@ python stone_game.py
 
 3.Scoring system or multiple rounds
 
-![image](https://github.com/user-attachments/assets/0fc80a20-ef3b-4198-a9ad-2b5a73032f05)
+
 
 
