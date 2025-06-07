@@ -31,4 +31,6 @@ python stone_game.py
 
 3.Scoring system or multiple rounds
 
+![image](https://github.com/user-attachments/assets/0fc80a20-ef3b-4198-a9ad-2b5a73032f05)
+
 
